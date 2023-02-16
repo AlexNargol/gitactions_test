@@ -1,4 +1,3 @@
-cat >.github/workflows/demo.yaml<<EOF
 name: testworkflow                                 # workflow name
 
 on:
